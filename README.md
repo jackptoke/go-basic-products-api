@@ -1,0 +1,1 @@
+Simply run: go run . 
